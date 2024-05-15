@@ -1,0 +1,94 @@
+
+#logoStart{
+  color: white;
+  font-weight: bold;
+  font-size: 27px ;
+}
+#logoEnd{
+  color: black;
+  font-weight: bolder;
+  font-size: 30px ;
+  width: 300px;
+}
+.navbar{
+  background-color: crimson;
+  box-shadow: 3px 3px 3px  rgb(125, 120, 120);
+}
+.navbar-brand{
+  width: 150px;
+}
+#homeColor{
+  color: white;
+}
+#aboutColor{
+  color: white;
+}
+/* #homeColor:hover{
+  color: white;
+  font-weight: bolder;
+  border-bottom: 4px solid black;
+ 
+}
+#aboutColor:hover{
+  color: white;
+  font-weight: bolder;
+  border-bottom: 4px solid black;
+} */
+#exampleFormControlTextarea1{
+  box-shadow: 3px 3px 3px  rgb(125, 120, 120);
+  outline: none;
+}
+.btn{
+  background-color: crimson;
+}
+#threeBtn{
+  width: 225px;   
+}
+svg{
+  height: 20px;
+  width: auto;
+}
+.bottom-0{
+  color: white;
+}
+
+sub::before{
+  content: "<";
+      font-size:15px;
+}
+sub::after{
+  content: ">";
+  font-size:15px;
+}
+sub{
+  font-weight: bold;
+}
+#feedbackForm{
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.accordion-button:hover{
+  background-color: crimson;
+  color: white;
+}
+.accordion-button:active{
+  background-color: black;
+  color: white;
+}
+.bottom-0{
+  display: flex;
+  height: 75px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#darkmode {
+   color: white;
+}
+.active{
+  color: white;
+  font-weight: bolder;
+  border-bottom: 4px solid black;
+}
